@@ -1,4 +1,4 @@
-# Cybersecurity : CSN150 Jeremy Lugo
+# Cybersecurity : CSN150 FINAL PROJECT Jeremy Lugo
 
 ## Name of Project
 ESP32CAM - Send Email
